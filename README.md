@@ -1,2 +1,2 @@
 # pi
-calculate pi using py
+calculate 31 digits of pi using py
